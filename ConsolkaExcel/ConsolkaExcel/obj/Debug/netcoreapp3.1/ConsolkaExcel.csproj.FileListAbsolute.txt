@@ -1,0 +1,11 @@
+C:\Users\isava\source\repos\ConsolkaExcel\ConsolkaExcel\bin\Debug\netcoreapp3.1\ConsolkaExcel.exe
+C:\Users\isava\source\repos\ConsolkaExcel\ConsolkaExcel\bin\Debug\netcoreapp3.1\ConsolkaExcel.deps.json
+C:\Users\isava\source\repos\ConsolkaExcel\ConsolkaExcel\bin\Debug\netcoreapp3.1\ConsolkaExcel.runtimeconfig.json
+C:\Users\isava\source\repos\ConsolkaExcel\ConsolkaExcel\bin\Debug\netcoreapp3.1\ConsolkaExcel.runtimeconfig.dev.json
+C:\Users\isava\source\repos\ConsolkaExcel\ConsolkaExcel\bin\Debug\netcoreapp3.1\ConsolkaExcel.dll
+C:\Users\isava\source\repos\ConsolkaExcel\ConsolkaExcel\bin\Debug\netcoreapp3.1\ConsolkaExcel.pdb
+C:\Users\isava\source\repos\ConsolkaExcel\ConsolkaExcel\obj\Debug\netcoreapp3.1\ConsolkaExcel.csprojAssemblyReference.cache
+C:\Users\isava\source\repos\ConsolkaExcel\ConsolkaExcel\obj\Debug\netcoreapp3.1\ConsolkaExcel.AssemblyInfoInputs.cache
+C:\Users\isava\source\repos\ConsolkaExcel\ConsolkaExcel\obj\Debug\netcoreapp3.1\ConsolkaExcel.AssemblyInfo.cs
+C:\Users\isava\source\repos\ConsolkaExcel\ConsolkaExcel\obj\Debug\netcoreapp3.1\ConsolkaExcel.dll
+C:\Users\isava\source\repos\ConsolkaExcel\ConsolkaExcel\obj\Debug\netcoreapp3.1\ConsolkaExcel.pdb
